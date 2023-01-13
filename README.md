@@ -1,0 +1,2 @@
+# N-Body-Simulation
+基于JavaScript计算某星体在一个时刻的加速度以更新速度与位置，通过p5.js在HTML网页显示所模拟的星体运动轨迹
